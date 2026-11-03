@@ -1,0 +1,17 @@
+{
+  "name": "Experiencia Lombardo's",
+  "short_name": "Lombardo's",
+  "description": "Turnos del salón, la carta de LomBARdo's House y la agenda de eventos.",
+  "lang": "es-AR",
+  "start_url": "./?cliente",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#151111",
+  "theme_color": "#151111",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
